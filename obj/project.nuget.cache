@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmDNgznDKY4=",
+  "success": true,
+  "projectFilePath": "/home/usuario/repos/hacker-news-consumer/hacker-news-consumer.csproj",
+  "expectedPackageFiles": [
+    "/home/usuario/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/home/usuario/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

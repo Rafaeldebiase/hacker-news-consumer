@@ -1,0 +1,6 @@
+@hacker_news_consumer_HostAddress = http://localhost:5178
+
+GET {{hacker_news_consumer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
